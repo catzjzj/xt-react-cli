@@ -3,7 +3,7 @@ const program = require('commander');
 var process1 = require('child_process');
 //version 版本号
 //name 新项目名称
-program.version('1.0.3')
+program.version('1.0.4')
   .command('init <name>')
   .action((name) => {
     console.log('clone template ...');
