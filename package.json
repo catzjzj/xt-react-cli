@@ -1,6 +1,6 @@
 {
-  "name": "xt-react-web-webpack5",
-  "version": "1.0.2",
+  "name": "xt-react-cli",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
